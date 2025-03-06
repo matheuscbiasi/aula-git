@@ -9,6 +9,9 @@ No terminal digitar os comandos:
 - next, next, finish
 - cat /path/id_rsa.pub
 
+## Autor
+nome: Matheus Biasi
+turma: a
 
 
 
