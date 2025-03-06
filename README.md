@@ -12,6 +12,9 @@ No terminal digitar os comandos:
 ## Clone  Repo
 - git clone <path-repo>
 
+## Autor
+nome: Matheus Biasi
+turma: a
 
 
 
