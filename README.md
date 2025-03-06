@@ -9,6 +9,8 @@ No terminal digitar os comandos:
 - next, next, finish
 - cat /path/id_rsa.pub
 
+## Clone  Repo
+- git clone <path-repo>
 
 
 
